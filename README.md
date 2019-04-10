@@ -1,1 +1,1 @@
-Created a todo app using json api
+Created a todo app using json api.
